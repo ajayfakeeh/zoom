@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "209401212937",
+    "firebase_url": "https://zoom-module-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zoom-module",
+    "storage_bucket": "zoom-module.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209401212937:android:da5f5ab80f5e98942688d8",
+        "android_client_info": {
+          "package_name": "com.dsfh.zoom_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKZ0-JyMdanb4EauQYJ9wYk01Xj6YbaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209401212937:android:0964dee8d3cf28ce2688d8",
+        "android_client_info": {
+          "package_name": "com.zoommain.zoommainproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKZ0-JyMdanb4EauQYJ9wYk01Xj6YbaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
